@@ -5,12 +5,15 @@
 const AFFILIATE_TAG = 'tecnicoascen-21'; // ← CAMBIA ESTO por tu ID real
 
 const products = {
-  fluke117:    `https://www.amazon.es/dp/B000MWXMHC?tag=${AFFILIATE_TAG}`,
-  hiokiCM4374: `https://www.amazon.es/dp/XXXXXXXXXX?tag=${AFFILIATE_TAG}`,
-  fluke1507:   `https://www.amazon.es/dp/B000MWXABC?tag=${AFFILIATE_TAG}`,
-  guantes:     `https://www.amazon.es/dp/XXXXXXXXXX?tag=${AFFILIATE_TAG}`,
-  ledCabina:   `https://www.amazon.es/dp/XXXXXXXXXX?tag=${AFFILIATE_TAG}`,
-  molykote:    `https://www.amazon.es/dp/XXXXXXXXXX?tag=${AFFILIATE_TAG}`,
+  fluke117: `https://amzn.to/4us66uj`,
+  FLUKE325: `https://amzn.to/3Qb6xLi`,
+  FNMENGE: `https://amzn.to/3PQge1R`,
+  guantes: `https://amzn.to/4xi9j1Z`,
+  calzado: `https://amzn.to/4e3F06o`,
+  linterna: `https://amzn.to/4fTGV0f`,
+  ledCabina: `https://amzn.to/4ofM70m`,
+  grasa: `https://amzn.to/4uZnGXz`,
+  wd40: `https://amzn.to/4ujbwHP`
 };
 
 // Aplica enlaces automáticamente a elementos con data-product="clave"
