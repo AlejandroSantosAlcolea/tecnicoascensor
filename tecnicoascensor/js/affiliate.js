@@ -15,7 +15,7 @@ const products = {
   grasa: `https://amzn.to/4uZnGXz`,
   wd40: `https://amzn.to/4ujbwHP`,
   fluke1507: `https://amzn.to/4eBlaAW`,
-  unit: `https://amzn.to/4usSvTq`
+  unit: `https://amzn.to/4omP2V7`
 };
 
 // Aplica enlaces automáticamente a elementos con data-product="clave"
