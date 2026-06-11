@@ -13,7 +13,8 @@ const products = {
   linterna: `https://amzn.to/4fTGV0f`,
   ledCabina: `https://amzn.to/4ofM70m`,
   grasa: `https://amzn.to/4uZnGXz`,
-  wd40: `https://amzn.to/4ujbwHP`
+  wd40: `https://amzn.to/4ujbwHP`,
+  fluke1507: `https://amzn.to/4eBlaAW`
 };
 
 // Aplica enlaces automáticamente a elementos con data-product="clave"
